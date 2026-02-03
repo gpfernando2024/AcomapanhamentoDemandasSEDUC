@@ -1,11 +1,11 @@
 site_name: "Portal de Documentação"
 site_description: "Documentação publicada via MkDocs no GitHub Pages"
 site_author: "Fernando F. F. Ribeiro"
-site_url: "https://github.com/gpfernando2024/AcomapanhamentoDemandasSEDUC/"
+site_url: https://gpfernando2024.github.io/AcompanhamentoDemandasSEDUC/"
 use_directory_urls: true
 
-repo_name: "gpfernando2024/AcomapanhamentoDemandasSEDUC/"
-repo_url: "https://github.com/gpfernando2024/AcomapanhamentoDemandasSEDUC/"
+repo_name: "AcomapanhamentoDemandasSEDUC/"
+repo_url: "https://gpfernando2024.github.io/AcompanhamentoDemandasSEDUC/"
 edit_uri: "edit/main/docs/"
 
 theme:
